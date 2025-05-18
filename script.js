@@ -1,4 +1,4 @@
-const apiKey = "ef1e8210e64448249e2142906251705"; // get the key from https://www.weatherapi.com/ 
+const apiKey = "USE_YOUR_API_KEY"; // get the key from https://www.weatherapi.com/ 
 const weatherCard = document.getElementById("weatherCard");
 const themeToggle = document.getElementById("themeToggle");
 const body = document.body;
