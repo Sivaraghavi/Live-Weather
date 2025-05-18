@@ -6,10 +6,10 @@ A simple and beautiful weather web app built with HTML, CSS, and JavaScript that
 ## 📸 Screenshots
 
 ### ☀️ Light Mode
-![Light Mode](./light-theme.png)
+![Light Mode](./LightMode.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./dark-theme.png)
+![Dark Mode](./DarkMode.png)
 
 ---
 
@@ -25,3 +25,44 @@ To use this API:
 5. Paste it into the `script.js` file:
    ```javascript
    const apiKey = "YOUR_API_KEY_HERE";
+
+## 💡 Features
+🔎 Search weather by location
+
+🌡️ View temperature and condition
+
+🧊 Displays helpful notes based on temperature (cold/hot/pleasant)
+
+🌗 Toggle between Light and Dark mode
+
+⚡ Responsive and clean UI
+
+## 🚀 How to Run the Project
+1. Clone this repository:
+```
+git clone https://github.com/Sivaraghavi/Live-Weather
+```
+2. Navigate to the project folder:
+```
+cd sweet-weather-app
+```
+Open index.html in your browser
+*(No build or server needed – pure frontend project)*
+
+## 📁 Folder Structure
+```
+sweet-weather-app/
+├── index.html
+├── style.css
+├── script.js
+├── LightMode.png
+├── DarkMode.png
+└── README.md
+```
+Thank you for exploring the Live Weather project! 
+
+## Contact
+
+For any questions or feedback, please reach out to us at [sivaraghavi6103@gmail.com](mailto:sivaraghavi6103@gmail.com).
+
+
